@@ -10,6 +10,7 @@ I am passionate about turning raw data into actionable business insights. I spec
 * **Reporting Tools:** **MS Excel** (Advanced formulas) and **DAX** (Complex measures for business KPIs).
 
 ### 🎓 Education
+* **Master of computer Applications (MCA) - Pursuing**
 * **Bachelor of Computer Science (BCS)**
 
 ### 📫 Let's Connect!
