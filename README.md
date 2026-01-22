@@ -1,4 +1,4 @@
-# Hi, I'm Pallavi Lad!
+# Hi, I'm Pallavi!
 
 ### 📊 Aspiring Data Analyst | BCS Graduate | Pune, Maharashtra
 I am passionate about turning raw data into actionable business insights. I specialize in the full data lifecycle—from cleaning and analyzing to building interactive dashboards and data-driven storytelling.
